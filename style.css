@@ -243,7 +243,11 @@ color: black;
      }
 
     .card-info {
-        padding: .1rem;
+        padding: 1rem;
+    }
+ 
+    .plan-title {
+    font-size: 14px; 
     }
 
     .plan-change-link {
