@@ -252,11 +252,15 @@ color: black;
     .card-info {
         padding: 1rem;
     }
-
+<<<<<<< HEAD
  
     .plan-title {
     font-size: 12px; 
+=======
 
+    .plan-title {
+        font-size: 12px;
+>>>>>>> Updated Title -fixed scroll issue -removed 100vh from main -added image to background and removed img tags -added margin top and bottom
     }
 
     .plan-change-link {
