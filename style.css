@@ -253,8 +253,10 @@ color: black;
         padding: 1rem;
     }
 
+ 
     .plan-title {
-        font-size: 12px;
+    font-size: 12px; 
+
     }
 
     .plan-change-link {
